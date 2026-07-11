@@ -27,8 +27,7 @@ Proyek ini menganalisis sentimen komentar YouTube pada video tentang pelemahan R
 Mayoritas komentar bernada negative (67.1%), mencerminkan kekhawatiran publik terhadap kondisi ekonomi dan kebijakan pemerintah.
 
 <p align="center">
-  <img src="assets/chart_distribusi.png" alt="Distribusi Sentimen" width="550">
-  <img src="assets/pie_chart.png" alt="Pie Chart Sentimen" width="350">
+  <img src="assets/pie_chart.png" alt="Pie Chart Sentimen" width="400">
 </p>
 
 ---

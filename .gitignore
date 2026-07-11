@@ -1,2 +1,11 @@
 .env
 myenv/
+__pycache__/
+*.egg-info/
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+.claude/
+Scraping_data_FIXED.ipynb
+Labeled_comments_cukup.csv
+Labeled_comments_FIXED.csv

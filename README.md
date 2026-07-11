@@ -105,7 +105,8 @@ root/
 ├── requirements.txt                # Dependencies
 ├── .env                            # API key (tidak di-commit)
 ├── README.md
-│
+├──Data
+│   ├── Labelled(4)_comments.csv    # pakai data ini untuk sampai tahap akhir
 ├── Notebooks/
 │   ├── Scraping_data.ipynb         # Scraping -> Labeling -> EDA
 │   ├── Modeling.ipynb              # ML pipeline + evaluasi
@@ -128,8 +129,6 @@ root/
 │   ├── chart_distribusi.png
 │   ├── pie_chart.png
 │   └── wordcloud_all.png
-│
-└── Dashboard/                      # (opsional) materi tambahan
 ```
 
 ---

@@ -45,7 +45,7 @@ Scraping YouTube  -->  Labeling via GPT-4o-mini  -->  Preprocessing  -->  EDA (W
 Mengambil 319 komentar dari video YouTube menggunakan `youtube-comment-downloader`. Data yang diambil: teks komentar, author, jumlah likes, dan timestamp.
 
 ### 2. Labeling Otomatis
-Setiap komentar diklasifikasikan ke positive/neutral/negative menggunakan GPT-4o-mini. Prompt dirancang khusus untuk mendeteksi sarkasme karena banyak komentar bernada sinis yang menggunakan kata-kata positif sebagai topeng.
+Setiap komentar diklasifikasikan ke positive/neutral/negative menggunakan Claude sonnet 4.5. Prompt dirancang khusus untuk mendeteksi sarkasme karena banyak komentar bernada sinis yang menggunakan kata-kata positif sebagai topeng.
 
 ### 3. Preprocessing Teks
 - Normalisasi slang via kamus publik (nasalsabila/kamus-alay, 15rb+ entri)
